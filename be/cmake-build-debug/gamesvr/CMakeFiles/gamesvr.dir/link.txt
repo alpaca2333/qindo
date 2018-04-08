@@ -1,0 +1,1 @@
+g++  -Werror -Wall -g -fPIC -std=c++11 -g  -rdynamic CMakeFiles/gamesvr.dir/game_svr.cpp.o CMakeFiles/gamesvr.dir/main.cpp.o  -o ../../bin/gamesvr  -L/home/qwertysun/Desktop/qindo/be/lib -Wl,-rpath,/home/qwertysun/Desktop/qindo/be/lib ../../lib/libqindo.a 

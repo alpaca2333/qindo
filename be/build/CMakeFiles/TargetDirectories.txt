@@ -1,0 +1,8 @@
+/home/qwertysun/Desktop/qindo/build/CMakeFiles/edit_cache.dir
+/home/qwertysun/Desktop/qindo/build/CMakeFiles/rebuild_cache.dir
+/home/qwertysun/Desktop/qindo/build/libsrc/CMakeFiles/edit_cache.dir
+/home/qwertysun/Desktop/qindo/build/libsrc/CMakeFiles/rebuild_cache.dir
+/home/qwertysun/Desktop/qindo/build/libsrc/CMakeFiles/qindo.dir
+/home/qwertysun/Desktop/qindo/build/gamesvr/CMakeFiles/edit_cache.dir
+/home/qwertysun/Desktop/qindo/build/gamesvr/CMakeFiles/rebuild_cache.dir
+/home/qwertysun/Desktop/qindo/build/gamesvr/CMakeFiles/gamesvr.dir

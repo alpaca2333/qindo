@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libsrc/qapp/qapp.h
+unistd.h
+-
+iostream
+-
+cstdio
+-
+sys/wait.h
+-
+
+/home/qwertysun/Desktop/qindo/gamesvr/game_svr.cpp
+game_svr.h
+/home/qwertysun/Desktop/qindo/gamesvr/game_svr.h
+iostream
+-
+
+/home/qwertysun/Desktop/qindo/gamesvr/game_svr.h
+qapp.h
+/home/qwertysun/Desktop/qindo/gamesvr/qapp.h
+
+/home/qwertysun/Desktop/qindo/gamesvr/main.cpp
+game_svr.h
+/home/qwertysun/Desktop/qindo/gamesvr/game_svr.h
+

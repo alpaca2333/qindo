@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwertysun/Desktop/qindo/libsrc/qapp/qapp.cpp
+qapp.h
+/home/qwertysun/Desktop/qindo/libsrc/qapp/qapp.h
+
+/home/qwertysun/Desktop/qindo/libsrc/qapp/qapp.h
+unistd.h
+-
+iostream
+-
+cstdio
+-
+sys/wait.h
+-
+

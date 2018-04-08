@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libqindo.a  CMakeFiles/qindo.dir/qapp/qapp.cpp.o
+/usr/bin/ranlib ../../lib/libqindo.a
